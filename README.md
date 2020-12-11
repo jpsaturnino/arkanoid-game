@@ -1,10 +1,7 @@
 # Arkanoid Game
 
 ## About the Project
-
-
-#### 3rd Semester | Computer Science - Arkanoid game using Java
-<p>"Develop the classic game called Arkanoid. The concepts of OOP and JavaFX should be used."</p>
+"Develop the classic game called Arkanoid. The concepts of OOP and JavaFX should be used"
 
 ## Game components
 

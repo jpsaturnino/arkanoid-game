@@ -14,3 +14,8 @@
 - *Green:* remains static until the first collision, then descends to a height close to the racket and moves continuously, left and right, until it receives a second collision with the ball. <br>
 - *Blue:* when the collision with the ball occurs it is destroyed and a second ball is generated, with a horizontal direction opposite to the current ball <br>
 - *White:* every time the ball hits a white block it is destroyed and the ball gains twice the speed for 15 seconds, then returns to normal speed <br>
+
+## Participants
+[mariaclara-rs](https://github.com/mariaclara-rs)
+<br>
+[rxngui](https://github.com/rxngui)

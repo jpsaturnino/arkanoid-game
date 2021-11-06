@@ -15,7 +15,8 @@
 - *Blue:* when the collision with the ball occurs it is destroyed and a second ball is generated, with a horizontal direction opposite to the current ball <br>
 - *White:* every time the ball hits a white block it is destroyed and the ball gains twice the speed for 15 seconds, then returns to normal speed <br>
 
-<iframe src="https://drive.google.com/file/d/1ZI1fkQpIKXtAJoHvoQxPiZJKfPSsy4_z/view?usp=sharing" ></iframe>
+## Video Preview
+https://drive.google.com/file/d/1ZI1fkQpIKXtAJoHvoQxPiZJKfPSsy4_z/view?usp=sharing
 
 ## Participants
 [mariaclara-rs](https://github.com/mariaclara-rs)
